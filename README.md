@@ -1,19 +1,66 @@
-<div id="header" align="center">
-    <h1>Hi there, I'm  Eldar </h1>
-    <h3>Frontend Developer from Russian</h3>
+<div align="center">
+
+# Привет, я Эльдар
+
+### Product Manager с техническим бэкграундом
+B2B-автоматизация • Внутренние продукты • AI/LLM • CRM
+
 </div>
 
-### About me
-- 🌱 I’m currently learning **Web3, Frontend**
-- 📫 Reach me by [email](mailto:morow.bwa@gmail.com)
-- 🌍 I speak English and Russian
+---
 
-### Languages and tools
+## Обо мне
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+Я занимаюсь развитием внутренних B2B-продуктов: от исследования проблемы и сбора требований до MVP, roadmap, backlog и запуска.
+
+Мне интересны продукты на стыке бизнеса, автоматизации, AI/LLM и технических платформ.
+
+---
+
+## Основной фокус
+
+<div align="center">
+
+| Product | Delivery | Tech |
+|---|---|---|
+| CustDev | Scrum / Kanban | CRM |
+| Roadmap | Backlog | B2B automation |
+| User Stories | RICE / MoSCoW | AI / LLM |
+| Product Metrics | Stakeholders | Internal tools |
+
+</div>
+
+---
+
+## Инструменты
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="42" height="42"/>
+
+</div>
+
+---
+
+## Что мне интересно
+
+<div align="center">
+
+`Product Management` • `B2B SaaS` • `Automation` • `AI/LLM` • `Internal Platforms`
+
+</div>
+
+---
+
+<div align="center">
+
+### Спасибо, что заглянули
+
+</div>
